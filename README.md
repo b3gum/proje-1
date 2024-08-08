@@ -18,8 +18,11 @@ Bu proje, Iris veri seti kullanılarak basit bir tahmin modeli (lojistik regresy
 Bu proje aşağıdaki Python kütüphanelerini gerektirir:
 
 - pandas
-- scikit-learn
 - matplotlib
 - seaborn
+- scikit-learn
+
+
+
 
 
